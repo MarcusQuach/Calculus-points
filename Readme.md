@@ -52,5 +52,5 @@ File Structure
     distance_project/
     │
     ├── distance.py     # Main script
-    ![alt text](Proof.png)
+    ├── (Proof.png)     # Proof of script working
     └── README.txt      # Project overview (this file)
