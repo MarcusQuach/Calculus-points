@@ -35,7 +35,8 @@ How to Run
 
 1. Make sure you have Python installed.
 2. Clone this repository or copy the script into a file (e.g., distance.py).
-3. Open a terminal and run:
+3. Replace points as needed on line 14 in format of x1,x2,y1,y2
+4. Open a terminal and run:
 
     python distance.py
 

@@ -6,7 +6,7 @@ def find_points(x1,x2,y1,y2):
 
 # Define distance as d and use distance formula for 2 coordinates
     d = math.sqrt((x2 - x1)**2 + (y2-y1)**2)
-    
+
     # Print distance
     print(d)
 
